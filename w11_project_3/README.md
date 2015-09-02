@@ -26,7 +26,7 @@ We expect most students will complete this project individually, but pairs may b
 * **Create a complete product**, which most likely means multiple related resources and CRUD functionality for each.
 * **Build a full-stack application** by making your own backend and your own front-end.
 * Up your design & style game; **make a product that's impressive looking** to kick your portfolio up a notch.
-* **Deploy your application online** so it's publically accessible.
+* **Deploy your application online** so it's publicly accessible.
 * **Create a focused product**. Know which features are essential to build for your MVP and which to set aside for later.
 * **Craft thoughtful user stories** that are significant enough to help you ensure a pleasing and logical user experience.
 * **Handle errors gracefully**, and provide useful feedback to users when errors or validation failures do occur.
